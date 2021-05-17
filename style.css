@@ -1,0 +1,14 @@
+.lorem {
+    margin-top: 50px;
+}
+.lorem-form {
+    margin: 30px;
+}
+#amount {
+    width: 50px;
+
+    color: black;
+}
+.result {
+    text-align: left;
+}
